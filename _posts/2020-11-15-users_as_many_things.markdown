@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "users_as_many_things"
-date:       2020-11-15 05:28:42 +0000
+date:       2020-11-15 00:28:43 -0500
 permalink:  users_as_many_things
 ---
 
 
-For this project, I created a web app called DanceApp. DanceApp is meant to be a place for dancers to find and register for dance classes in their area. Users can interact with the app as students, teachers, studio owners, or any combination of the three. That means that this domain has the potential to be super complex. Because I'm a beginner and only had two weeks to do this project, my version of it is pretty simple, but it felt pretty complicated to me!
+For my Rails project, I created a web app called DanceApp. DanceApp is meant to be a place for dancers to find and register for dance classes in their area. Users can interact with the app as students, teachers, studio owners, or any combination of the three. That means that this domain has the potential to be super complex. Because I'm a beginner and only had two weeks to do this project, my version of it is pretty simple, but it felt pretty complicated to me!
 
 The app has only one user class, called User. However, we refer to the user by different names depending on what role they're taking on at any given time. 
 
